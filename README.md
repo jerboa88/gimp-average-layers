@@ -1,7 +1,7 @@
 # Gimp Average Layers [GIMP Plugin]
 ![](https://img.shields.io/badge/type-Python-blue.svg "Project type")
-![](https://img.shields.io/github/repo-size/jerboa88/README-Template.svg "Repository size")
-[![](https://img.shields.io/github/license/jerboa88/README-Template.svg "Project license")](LICENSE)
+![](https://img.shields.io/github/repo-size/jerboa88/gimp-average-layers.svg "Repository size")
+[![](https://img.shields.io/github/license/jerboa88/gimp-average-layers.svg "Project license")](LICENSE)
 
 
 This GIMP plugin merges all layers in an image by taking the average value of each pixel. Useful for noise reduction.
