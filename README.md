@@ -12,7 +12,7 @@
   </p>
   
   <p class="projectDesc">
-    This GIMP plugin merges all layers in an image by taking the average value of each pixel. Useful for noise reduction.
+    A GIMP plugin that merges all layers in an image by taking the average value of each pixel. Useful for noise reduction
   </p>
   
   <br/>
