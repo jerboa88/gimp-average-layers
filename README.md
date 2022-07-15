@@ -1,15 +1,28 @@
-# Gimp Average Layers [GIMP Plugin]
-![](https://img.shields.io/badge/type-Python-blue.svg "Project type")
-![](https://img.shields.io/github/repo-size/jerboa88/gimp-average-layers.svg "Repository size")
-[![](https://img.shields.io/github/license/jerboa88/gimp-average-layers.svg "Project license")](LICENSE)
+<!-- Project Header -->
+<div align="center">
+  <h1 class="projectName">Gimp Average Layers</h1>
 
+  <p class="projectBadges">
+    <img src="https://img.shields.io/badge/type-GIMP_Plugin-2196f3.svg" alt="Project type" title="Project type"/>
+    <img src="https://img.shields.io/github/languages/top/jerboa88/gimp-average-layers.svg" alt="Language" title="Language"/>
+    <img src="https://img.shields.io/github/repo-size/jerboa88/gimp-average-layers.svg" alt="Repository size" title="Repository size"/>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/github/license/jerboa88/gimp-average-layers.svg" alt="Project license" title="Project license"/>
+    </a>
+  </p>
+  
+  <p class="projectDesc">
+    This GIMP plugin merges all layers in an image by taking the average value of each pixel. Useful for noise reduction.
+  </p>
+  
+  <br/>
+</div>
 
-This GIMP plugin merges all layers in an image by taking the average value of each pixel. Useful for noise reduction.
 
 ![Example](/example.png?raw=true "Example")
 
 
-## Installing
+## Installation
 
 #### Windows
 1. Move this plugin into the `%appdata%/GIMP/2.8/plug-ins/` directory.
