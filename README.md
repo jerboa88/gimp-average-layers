@@ -10,11 +10,11 @@
       <img src="https://img.shields.io/github/license/jerboa88/gimp-average-layers.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
-  
+
   <p class="projectDesc" data-exposition="A plugin for the image editor GIMP that merges all layers in an image by taking the average value of each pixel. Forked from an existing plugin, my version adds useful features like undo support and a progress bar. This project was a great introduction to Gimp-Python and the PDB (procedural database) API.">
     A GIMP plugin that merges all layers in an image by taking the average value of each pixel. Useful for noise reduction
   </p>
-  
+
   <br/>
 </div>
 
@@ -25,19 +25,19 @@
 ## Installation
 
 #### Windows
-1. Move this plugin into the `%appdata%/GIMP/2.8/plug-ins/` directory.
+1. Move this plugin into the `%appdata%/GIMP/2.10/plug-ins/` directory.
 2. Restart GIMP.
 
 
 #### Linux
-1. Move this plugin into the `~/.gimp-2.8/plug-ins/` directory.
-2. `chmod +x ~/.gimp-2.8/plug-ins/average-layers.py`
+1. Move this plugin into the `~/.gimp-2.10/plug-ins/` directory.
+2. `chmod +x ~/.gimp-2.10/plug-ins/average-layers.py`
 3. Restart GIMP.
 
 
 #### Mac OS X
-1. Move this plugin into the `~/Library/Application\ Support/GIMP/2.8/plug-ins/` directory.
-2. `chmod +x ~/Library/Application\ Support/GIMP/2.8/plug-ins/average-layers.py`
+1. Move this plugin into the `~/Library/Application\ Support/GIMP/2.10/plug-ins/` directory.
+2. `chmod +x ~/Library/Application\ Support/GIMP/2.10/plug-ins/average-layers.py`
 3. Restart GIMP.
 
 
