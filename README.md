@@ -11,7 +11,7 @@
     </a>
   </p>
 
-  <p class="projectDesc" data-exposition="A plugin for the image editor GIMP that merges all layers in an image by taking the average value of each pixel. Forked from an existing plugin, my version adds useful features like undo support and a progress bar. This project was a great introduction to Gimp-Python and the PDB (procedural database) API.">
+  <p class="projectDesc">
     A GIMP plugin that merges all layers in an image by taking the average value of each pixel. Useful for noise reduction
   </p>
 
