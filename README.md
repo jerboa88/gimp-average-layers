@@ -3,7 +3,7 @@
   <h1 class="projectName">Gimp Average Layers</h1>
 
   <p class="projectBadges">
-    <img src="https://img.shields.io/badge/type-Application_Plugin-2196f3.svg" alt="Project type" title="Project type"/>
+    <img src="https://johng.io/badges/category/Plugin.svg" alt="Project category" title="Project category"/>
     <img src="https://img.shields.io/github/languages/top/jerboa88/gimp-average-layers.svg" alt="Language" title="Language"/>
     <img src="https://img.shields.io/github/repo-size/jerboa88/gimp-average-layers.svg" alt="Repository size" title="Repository size"/>
     <a href="LICENSE">
