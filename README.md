@@ -22,7 +22,7 @@
 ![Example](/example.png?raw=true "Example")
 
 
-## Installation
+## 📦 Installation
 
 Replace the version of GIMP in the paths below as needed.
 
@@ -41,12 +41,12 @@ Replace the version of GIMP in the paths below as needed.
 3. Restart GIMP
 
 
-## Usage
+## 🕹️ Usage
 1. Select `File ➙ Open as Layers...` to open the images you wish to blend.
 2. Select `Image ➙ Average Layers`
 
 
-## License
+## 🧾 License
 This project is released into the public domain. See the [LICENSE] for details. Attribution is appreciated but not required :)
 
 The [original version] of this plugin was created by [Oona Räisänen] (2012-2015, public domain). I have added some small features to make it more usable in production like an undo group and progress bar.
